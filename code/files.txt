@@ -1,0 +1,9 @@
+data.csv.zip <-- dataset original descargado de kaggle
+
+dataset_preprocessed.csv <-- dataset despues de preprocesamiento, previo a pca
+
+export-1.txt y datos_pca.csv <-- dataset despues de pca, input para FCM en MRJob
+
+archivo_membresia.txt <-- output MRJob
+
+ <-- centroides MRJob
