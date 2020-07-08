@@ -25,4 +25,8 @@ Adicionalmente, se elaboró el Machine Learning Canvas y el Big Data Canvas de l
 ![ML Canvas](mlcanvas.png)
   
   
-![BD Canvas](bdcanvas.png)
+![BD Canvas](bdcanvas.png)  
+
+## Referencias
+
+Las referencias han sido indicadas en cada archivo que constituye el trabajo.
