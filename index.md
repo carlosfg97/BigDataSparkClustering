@@ -8,9 +8,9 @@ El proyecto está separado en varias páginas: Problema, Abordaje, Preprocesamie
 
 * [Problema](https://github.com/carlosfg97/segmentacionbda/blob/master/problem.md)
 * [Abordaje](https://github.com/carlosfg97/segmentacionbda/blob/master/approach.md)
-* [Preprocesamiento](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3386862589276283/2624492572576674/8818258603877920/latest.html?fbclid=IwAR29iGzDE_ctLSuMZ-CVruM1aZ_SO6pqTDpxVSCQRLs6zqc_dCblO6A8kN4)
+* [Preprocesamiento](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3386862589276283/2624492572576674/8818258603877920/latest.html?fbclid=IwAR29iGzDE_ctLSuMZ-CVruM1aZ_SO6pqTDpxVSCQRLs6zqc_dCblO6A8kN4)\
 (Ejecución de todo el preprocesamiento puede tomar 10 minutos)
-* [Implementación en MRJob](https://github.com/carlosfg97/segmentacionbda/blob/master/code/MrJobFuzzy_Convergencia_Final1.py)
+* [Implementación en MRJob](https://github.com/carlosfg97/segmentacionbda/blob/master/code/MrJobFuzzy_Convergencia_Final1.py)\
 Ejecutar desde terminal asegurando que los archivos datos_pca.csv y export-1.txt se encuentran en la misma ruta.
 ```
 python MrJobFuzzy_Convergencia_Final1.py datos_pca.csv
