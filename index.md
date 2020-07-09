@@ -18,7 +18,7 @@ python MrJobFuzzy_Convergencia_Final1.py datos_pca.csv
 (Ejecución puede tomar 5-10 minutos y en promedio converge en 3 iteraciones)  
 ![output](outputfcm.png)   
 * [Resultados](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3386862589276283/2624492572576674/8818258603877920/latest.html?fbclid=IwAR29iGzDE_ctLSuMZ-CVruM1aZ_SO6pqTDpxVSCQRLs6zqc_dCblO6A8kN4)  
-* Conclusiones  
+* [Conclusiones](https://github.com/carlosfg97/segmentacionbda/blob/master/conclusiones.md)
 
 Adicionalmente, se elaboró el Machine Learning Canvas y el Big Data Canvas de la solución planteada.
 
