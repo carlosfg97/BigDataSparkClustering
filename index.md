@@ -29,4 +29,7 @@ Adicionalmente, se elaboró el Machine Learning Canvas y el Big Data Canvas de l
 
 ## Referencias
 
-Las referencias han sido indicadas en cada archivo que constituye el trabajo.
+Además de las fuentes citadas en el archivo de Preprocesamiento y Resultados, también se revisaron:
+* https://www.kaggle.com/prateekk94/fuzzy-c-means-clustering-on-iris-dataset  
+* https://github.com/gabrielspmoreira/kmeans_mapreduce_thunders
+
